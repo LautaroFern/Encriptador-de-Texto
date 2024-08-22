@@ -25,11 +25,17 @@ El texto tiene condiciones especificas para lograr la encriptacion:
 -No debe contener caracteres especiales
 
 Las bases del escriptado del texto son:
+
 -La letra "e" se convierte en "enter"
+
 -La letra "i" se convierte en "imes"
+
 -La letra "a" se convierte en "ai"
+
 -La letra "o" se convierte en "ober"
--La letra "u" se convierte en "ufat
+
+-La letra "u" se convierte en "ufat"
+
 
 #HERRAMIENTAS UTILIZADAS:
 
