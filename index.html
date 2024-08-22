@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es-arg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge-Encriptador de texto</title>
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+<body>
+    <!--Encabezado-->
+    <header>
+        <img src="./assets/Logo.png" alt="Logo Alura" class="logo">
+    </header>
+
+    <!--Main-->
+    <main>
+        <section class="encriptador">
+            <textarea class="encriptar" placeholder="Ingrese el texto aqui"></textarea>
+            <div class="encriptador_aviso">
+                <img src="./assets/bi_exclamation-circle-fill.png" alt="Imagen Aviso" class="img_aviso">
+                <p class="texto_aviso">Solo letras minusculas y sin acentos</p>
+            </div>
+            <div class="encriptador_contenedor">
+                <button type="submit" class="btn_encriptar">Encriptar</button>
+                <button type="submit" class="btn_desencriptar">Desencriptar</button>
+            </div>
+        </section>
+        <section class="tarjeta">
+            <div class="tarjeta_contenedor">
+                <img src="./assets/Muñeco.png" alt="Imagen Muñeco" class="img_muñeco">
+                <p class="texto_uno">Ningún mensaje fue encontrado</p>
+                <p class="texto_dos">Ingresa el texto que deseas encriptar o desencriptar</p>
+            </div>
+            <textarea type="mensaje" class="evaluar" readonly></textarea>
+            <button type="submit" class="btn_copiar">Copiar</button>
+        </section>
+    </main>
+    <!--Footer-->
+    <footer>
+        <p class="copyrigth">&copy; copyright 2024 / Encriptador de Texto / Desarrollado por Lautaro Fernandez</p>
+        <a href="https://github.com/LautaroFern">
+            <img src="./assets/github-logo.png" alt="Imagen de github" class="github">
+        </a>
+        <a href="https://www.linkedin.com/in/lautaro-fernandez-esposito-576ba2269/">
+            <img src="./assets/linkedin-logo.png" alt="Imagen de Linkedin" class="linkedin">
+        </a>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+</html>
