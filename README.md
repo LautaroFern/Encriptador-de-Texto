@@ -32,8 +32,11 @@ Las bases del escriptado del texto son:
 -La letra "u" se convierte en "ufat
 
 #HERRAMIENTAS UTILIZADAS:
+
 ![imagen](./assets/jss-logo.png)
+
 ![imagen](./assets/html5-logo.png)
+
 ![imagen](./assets/css-logo.png)
 
 #REALIZADO POR:
