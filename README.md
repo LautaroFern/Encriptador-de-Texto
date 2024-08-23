@@ -1,4 +1,4 @@
-#DESAFIO ENCRIPTADOR DE TEXTO / ORACLE NEXT EDUCATION
+DESAFIO ENCRIPTADOR DE TEXTO / ORACLE NEXT EDUCATION
 Se llevo a cabo la planificacion y construccion de un encriptador de texto, proporcionado por Oracle en conjunto con Alura Latam
 
 El proyecto contiene un textarea en la cual se introduce el texto. Debajo de este tiene un boton para encriptar el texto y otro para desencriptar. Tambien contiene otra seccion la cual proyecta en un textarea, el texto encriptado o desencriptado, debajo de esta misma aparecera un boton para copiar el contenido
@@ -37,7 +37,7 @@ Las bases del escriptado del texto son:
 -La letra "u" se convierte en "ufat"
 
 
-#HERRAMIENTAS UTILIZADAS:
+HERRAMIENTAS UTILIZADAS:
 
 ![imagen](./assets/jss-logo.png)
 
@@ -45,5 +45,5 @@ Las bases del escriptado del texto son:
 
 ![imagen](./assets/css-logo.png)
 
-#REALIZADO POR:
+REALIZADO POR:
 Lautaro Fernandez Esposito
